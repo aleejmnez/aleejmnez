@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 Hi there
 i'm Alejandra Jimenez. I degree pyschology at universidad de la costa. I'm sotfware developer in training. 
 I'm currently working on previsalud like freelance. I have experience in the area of formulation the projects and LMS(Learning managemt system). 
+
+fun fact about me: 
