@@ -1,21 +1,6 @@
 ## Hi there 👋
-
-<!--
-**aleejmnez/aleejmnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi there
-i'm Alejandra Jimenez. I degree pyschology at universidad de la costa. I'm sotfware developer in training. 
-I'm currently working on previsalud like freelance. I have experience in the area of formulation the projects and LMS(Learning managemt system). 
-
-fun fact about me: 
+- My name is Alejandra Jimenez. I am 24 years old and I have a degree in Psychology from Universidad de la Costa.
+- Now, I am training to become a software developer and learning more about programming and technology every day.
+- I work as a freelance like a database assistant at Previsalud. I have experience in project formulation and in managing Learning Management Systems (LMS).
+- I am interested in combining psychology and technology to create useful and user-friendly solutions.
+- Fun fact about me: I really like anime, and right now I am watching One Piece.
