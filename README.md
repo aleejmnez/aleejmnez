@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,100:F9A8D4&height=200&section=header&text=Alejandra%20Jim%C3%A9nez&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Alejandra Jiménez"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+%26+Psychologist;Liderazgo+de+Producto+%7C+Levantamiento+de+Requerimientos;Next.js+%7C+TypeScript+%7C+Prisma+%7C+Supabase;Transformando+necesidades+humanas+en+soluciones+digitales." alt="Animación de escritura"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+in+Training;Product+Owner+%7C+Strategic+Talent+Management;Next.js+%7C+TypeScript+%7C+Prisma+%7C+Supabase;Bridging+Human-Centered+Design+%26+Code." alt="Typing animation"/>
 
 <br>
 
@@ -15,95 +15,95 @@
 </a>
 
 <a href="https://TU_PORTAFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portafolio-Visitar-F472B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-F472B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-## Sobre Mí: La Sinergia entre Psicología y Tecnología
+## About Me
 
-¡Hola! Soy **Alejandra Paola Jiménez Dávila**, **Desarrolladora Full-Stack** formada en **Riwi** y profesional en **Psicología**.
+Hi! I'm **Alejandra Paola Jiménez Dávila**, a **Full-Stack Developer in Training** at **Riwi** with a strong foundation in **Strategic Human Talent Management**.
 
-Mi propuesta de valor nace de un **perfil híbrido** que une la comprensión profunda del comportamiento humano con la arquitectura de software moderna. Antes de escribir la primera línea de código, mi formación me permite escuchar activamente, analizar el trasfondo real de un problema y traducir las necesidades del negocio y de los usuarios en soluciones técnicas eficientes y orientadas a objetivos.
+I am passionate about a hybrid profile bridging **Tech + Behavioral Insights**. This allows me to deeply understand core user problems, lead requirements gathering, and collaborate seamlessly with stakeholders to build efficient, high-impact digital solutions. 
 
-Gracias a esta visión integral, suelo asumir roles de liderazgo en **levantamiento de requerimientos, comunicación con stakeholders y gestión de producto**, manteniendo siempre una mentalidad de adaptabilidad, atención al detalle y aprendizaje constante.
-
----
-
-## Mi Historia en los Proyectos: De la Necesidad a la Solución
-
-Cada desarrollo en mi portafolio refleja cómo la psicología y la ingeniería trabajan juntas para resolver retos reales:
-
-* 🌟 **AlegrIA (Proyecto Estrella — Líder de Investigación):** El punto máximo donde convergieron mis dos mundos. Lideré el equipo de investigación para dar vida a una experiencia web interactiva sobre la historia y arquitectura cultural de Barrio Abajo (1857–2050). El reto no era solo técnico, sino narrativo y humano: estructurar información histórica compleja para convertirla en un recorrido digital inmersivo, intuitivo y fiel a su identidad.
-* 🏆 **Elite Club (Product Owner & Desarrollo):** Asumí el rol de *Product Owner*, liderando el levantamiento de requerimientos, la definición del flujo de negocio y el diseño de la base de datos para una plataforma de gestión de complejos deportivos, reservas de canchas, pagos de prueba y validación mediante códigos QR.
-* 🏢 **CoSpace (Arquitectura Full-Stack):** Apliqué mi enfoque orientado al detalle para construir una plataforma de reserva de espacios de coworking por horas con **Next.js 16, TypeScript, Prisma y Supabase**, garantizando integridad de datos, autenticación segura y una experiencia de reserva sin fricciones.
-* 💙 **Zoe Care (Diseño UX/UI y Lógica de Negocio):** Diseñé la arquitectura visual y funcional de una plataforma de salud que conecta cuidadores con pacientes críticos, priorizando la empatía, la claridad visual y la reducción de carga cognitiva en situaciones sensibles.
+Driven by adaptability, continuous learning, and an obsession with clean code and great user experiences.
 
 ---
 
-## Stack Tecnológico
+## Story-Driven Projects
+
+How human-centric thinking and technical execution come together:
+
+* 🌟 **AlegrIA (Lead Researcher):** Spearheaded research for an immersive web experience blending the cultural history of Barrio Abajo (1857) with a futuristic 2050 tech vision—translating complex historical storytelling into intuitive digital architecture.
+* 🏆 **Elite Club (Product Owner & Developer):** Owned product backlog, requirements gathering, and database design for a sports complex and court reservation platform with QR code validation.
+* 🏢 **CoSpace (Full-Stack Architecture):** Built an hourly coworking space reservation system ensuring data integrity and robust security using Next.js 16, TypeScript, Prisma, and Supabase.
+* 💙 **Zoe Care (HealthTech & UX/UI):** Designed the core logic and visual workflow for a healthcare platform connecting caregivers and critical patients with empathetic UI.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 ### Frontend & UI
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" alt="Tecnologías Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" alt="Frontend stack"/>
 
 <br><br>
 
-### Backend, ORM y Bases de Datos
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,python" alt="Tecnologías Backend y bases de datos"/>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,python" alt="Backend and database stack"/>
 
 <br><br>
 
-### Nube y Herramientas
+### Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" alt="Herramientas de desarrollo y nube"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" alt="Tools and cloud"/>
 
 </div>
 
 ---
 
-## Portafolio de Proyectos
+## Featured Repositories
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🌟 AlegrIA — Líder de Investigación</h3>
+<h3>🌟 AlegrIA</h3>
 
 <p>
-Experiencia web interactiva que narra la evolución histórica y cultural de Barrio Abajo desde 1857 hasta una visión tecnológica en 2050.
+Interactive web timeline exploring Barrio Abajo's cultural evolution toward a 2050 tech epicentre.
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="32" alt="Tecnologías de AlegrIA"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="32" alt="AlegrIA tech"/>
 </p>
 
 <a href="https://github.com/TU_USUARIO_GITHUB/alegria">
-Ver repositorio →
+View repository →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🏆 Elite Club — Product Owner & Dev</h3>
+<h3>🏆 Elite Club</h3>
 
 <p>
-Plataforma de reservas deportivas con gestión de complejos, simulación de pagos, modelado relacional y generación de QR de validación.
+Sports complex management platform featuring court booking, payment simulation, and QR validation.
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,react,postgres,tailwind" height="32" alt="Tecnologías de Elite Club"/>
+<img src="https://skillicons.dev/icons?i=ts,react,postgres,tailwind" height="32" alt="Elite Club tech"/>
 </p>
 
 <a href="https://github.com/TU_USUARIO_GITHUB/elite-club">
-Ver repositorio →
+View repository →
 </a>
 
 </td>
@@ -114,36 +114,36 @@ Ver repositorio →
 
 <td width="50%" valign="top">
 
-<h3>🏢 CoSpace — Full-Stack Developer</h3>
+<h3>🏢 CoSpace</h3>
 
 <p>
-Sistema de reservas de coworking por horas con validación de esquemas (Zod), autenticación segura y arquitectura escalable en Next.js.
+Full-stack hourly coworking reservation platform with strict Zod validation and relational schemas.
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,supabase,tailwind" height="32" alt="Tecnologías de CoSpace"/>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,supabase,tailwind" height="32" alt="CoSpace tech"/>
 </p>
 
 <a href="https://github.com/TU_USUARIO_GITHUB/cospace">
-Ver repositorio →
+View repository →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>💙 Zoe Care — UX/UI & Business Logic</h3>
+<h3>💙 Zoe Care</h3>
 
 <p>
-Plataforma digital de salud enfocada en la conexión empática y eficiente entre cuidadores y pacientes en estado crítico.
+HealthTech digital solution bridging caregivers and critical patients with user-centered workflows.
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,figma" height="32" alt="Tecnologías de Zoe Care"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma" height="32" alt="Zoe Care tech"/>
 </p>
 
 <a href="https://github.com/TU_USUARIO_GITHUB/zoe-care">
-Ver repositorio →
+View repository →
 </a>
 
 </td>
@@ -153,7 +153,7 @@ Ver repositorio →
 
 ---
 
-## Competencias Clave y Áreas de Impacto
+## Core Competencies
 
 <div align="center">
 
@@ -162,17 +162,17 @@ Ver repositorio →
 
 <td align="center" width="25%">
 
-### Estrategia y Liderazgo
+### Management
 
-Levantamiento de Requerimientos
-Comunicación con Stakeholders
+Requirements Gathering
+Stakeholder Communication
 Product Ownership
 
 </td>
 
 <td align="center" width="25%">
 
-### Frontend & UX
+### Frontend
 
 Next.js (App Router)
 React & TypeScript
@@ -182,7 +182,7 @@ Tailwind CSS & Sass
 
 <td align="center" width="25%">
 
-### Backend & Datos
+### Backend & Data
 
 Prisma ORM
 PostgreSQL & SQL
@@ -192,11 +192,11 @@ Supabase
 
 <td align="center" width="25%">
 
-### Mentalidad Ágil
+### Mindset
 
-Adaptabilidad
-Orientación al Detalle
-Aprendizaje Continuo
+Adaptability
+Detail-Oriented
+Continuous Learning
 
 </td>
 
@@ -207,33 +207,33 @@ Aprendizaje Continuo
 
 ---
 
-## Estadísticas de GitHub
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/TU_USUARIO_GITHUB">
-<img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge&logo=github&label=Seguidores&color=C084FC" alt="Seguidores en GitHub"/>
+<img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge&logo=github&label=Followers&color=C084FC" alt="GitHub followers"/>
 </a>
 
 <a href="https://github.com/TU_USUARIO_GITHUB?tab=repositories">
-<img src="https://img.shields.io/badge/Repositorios-Explorar-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <a href="https://github.com/TU_USUARIO_GITHUB?tab=stars">
-<img src="https://img.shields.io/badge/Estrellas-Explorar-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Estrellas en GitHub"/>
+<img src="https://img.shields.io/badge/Stars-Explore-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/>
 </a>
 
 </div>
 
 ---
 
-## Filosofía de Trabajo
+## Development Philosophy
 
 <div align="center">
 
-> **Comprender el problema. Diseñar con empatía. Ejecutar con precisión.**
+> **Understand. Build. Scale.**
 
-La tecnología cobra verdadero valor cuando responde a una necesidad real. Mi objetivo es construir software sólido por dentro, intuitivo por fuera y alineado con las metas de quienes lo utilizan.
+Writing robust code is only half the job; understanding the problem domain and aligning technical architecture with user needs is what drives true software impact.
 
 </div>
 
@@ -241,7 +241,7 @@ La tecnología cobra verdadero valor cuando responde a una necesidad real. Mi ob
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=680&lines=%C2%A1Gracias+por+visitar+mi+perfil!;Conectemos+para+crear+soluciones+con+prop%C3%B3sito." alt="Animación de cierre"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=620&lines=Thanks+for+visiting!;Let's+build+impactful+software." alt="Footer animation"/>
 
 <br><br>
 
@@ -254,11 +254,11 @@ La tecnología cobra verdadero valor cuando responde a una necesidad real. Mi ob
 </a>
 
 <a href="https://TU_PORTAFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portafolio-Visitar-F472B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-F472B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Vistas+del+perfil&color=C084FC&style=for-the-badge" alt="Vistas del perfil"/>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile+Views&color=C084FC&style=for-the-badge" alt="Profile views"/>
 
 </div>
