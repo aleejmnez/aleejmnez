@@ -24,7 +24,7 @@
 
 ## About Me
 
-Hi! I'm **Alejandra Paola Jiménez Dávila**, a **Full-Stack Developer in Training** at **Riwi** with a strong foundation in **Strategic Human Talent Management**.
+Hi! I'm **Alejandra Jiménez**, a **Full-Stack Developer in Training** at **Riwi** with a strong foundation in **Strategic Human Talent Management**.
 
 I am passionate about a hybrid profile bridging **Tech + Behavioral Insights**. This allows me to deeply understand core user problems, lead requirements gathering, and collaborate seamlessly with stakeholders to build efficient, high-impact digital solutions. 
 
