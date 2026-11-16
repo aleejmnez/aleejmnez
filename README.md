@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/aleejmnez">
 <img src="https://img.shields.io/badge/GitHub-Alejandra_Jimenez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -84,7 +84,7 @@ Interactive web timeline exploring Barrio Abajo's cultural evolution toward a 20
 <img src="https://skillicons.dev/icons?i=html,css,js" height="32" alt="AlegrIA tech"/>
 </p>
 
-<a href="https://github.com/TU_USUARIO_GITHUB/alegria">
+<a href="https://github.com/aleejmnez/AlegrIA-3D">
 View repository →
 </a>
 
@@ -102,7 +102,7 @@ Sports complex management platform featuring court booking, payment simulation, 
 <img src="https://skillicons.dev/icons?i=ts,react,postgres,tailwind" height="32" alt="Elite Club tech"/>
 </p>
 
-<a href="https://github.com/TU_USUARIO_GITHUB/elite-club">
+<a href="https://github.com/aleejmnez/Proyecto-Eventos-Deportivos-G5">
 View repository →
 </a>
 
@@ -124,7 +124,7 @@ Full-stack hourly coworking reservation platform with strict Zod validation and 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,supabase,tailwind" height="32" alt="CoSpace tech"/>
 </p>
 
-<a href="https://github.com/TU_USUARIO_GITHUB/cospace">
+<a href="https://github.com/aleejmnez/next-pd">
 View repository →
 </a>
 
@@ -142,7 +142,7 @@ HealthTech digital solution bridging caregivers and critical patients with user-
 <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="32" alt="Zoe Care tech"/>
 </p>
 
-<a href="https://github.com/TU_USUARIO_GITHUB/zoe-care">
+<a href="https://github.com/Isac-Coder/Proyecto_Integrador">
 View repository →
 </a>
 
@@ -211,15 +211,15 @@ Continuous Learning
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO_GITHUB">
-<img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge&logo=github&label=Followers&color=C084FC" alt="GitHub followers"/>
+<a href="https://github.com/aleejmnez">
+<img src="https://img.shields.io/github/followers/aleejmnez?style=for-the-badge&logo=github&label=Followers&color=C084FC" alt="GitHub followers"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO_GITHUB?tab=repositories">
+<a href="https://github.com/aleejmnez?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-Explore-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO_GITHUB?tab=stars">
+<a href="https://github.com/aleejmnez?tab=stars">
 <img src="https://img.shields.io/badge/Stars-Explore-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/>
 </a>
 
@@ -245,7 +245,7 @@ Writing robust code is only half the job; understanding the problem domain and a
 
 <br><br>
 
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/aleejmnez">
 <img src="https://img.shields.io/badge/GitHub-Alejandra_Jimenez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -259,6 +259,6 @@ Writing robust code is only half the job; understanding the problem domain and a
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile+Views&color=C084FC&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=aleejmnez&label=Profile+Views&color=C084FC&style=for-the-badge" alt="Profile views"/>
 
 </div>
